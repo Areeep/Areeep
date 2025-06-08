@@ -43,16 +43,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/areeplh" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="28" alt="Instagram" style="margin-right: 4px">
 <a href="https://github.com/Areeep" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="28" alt="Github" style="margin-right: 4px>">
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areeep/areeep/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areeep/areeep/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/areeep/areeep/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" />
-
-###
