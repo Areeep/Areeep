@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
- 🚀 Passionate frontend web developer, with a strong interest in building responsive and user-friendly web interfaces. Eager to learn, grow, and contribute to modern web development. Enthusiastic about clean design and great user experience.
+ 🚀 A passionate frontend developer who loves crafting clean, responsive, and user-friendly web interfaces. Strong interest in modern web technologies, UI/UX principles, and continuous learning. Curious by nature and eager to learn best practices in web development.
 
  **<h5 align="left">Skills</h5>**
 
