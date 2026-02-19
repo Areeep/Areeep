@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
--![Syariffullah](img/header-img.png)
+-![Syariffullah](images/header-img.png)
 
 <div id="toc">
   <ul style="list-style: none">
