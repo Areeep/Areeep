@@ -15,33 +15,31 @@ Here are some ideas to get you started:
 
 
 
--![Syariffullah](images/header-img.png)
+<!--- ![Syariffullah](images/header-img.png) -->
 
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1>
-        Syariffullah
-      </h1>
+      <h1>Hey there!👋🏻</h1>
+      <p>I'm <a href="www.linkedin.com/in/syariffullah">Syariffullah</a>, a Frontend Developer based in Indonesia.</p>
     </summary>
   </ul>
 </div>
 
- 🚀 A passionate frontend developer who loves crafting clean, responsive, and user-friendly web interfaces. Strong interest in modern web technologies, UI/UX principles, and continuous learning. Curious by nature and eager to learn best practices in web development.
+<br>
 
- **<h5 align="left">Skills</h5>**
+<p>I design and build whatever i can imagine.</p>
+<p>✨ Currently focusing on crafting clean UI, smooth animations, and delightful user experiences.</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" style="margin-right: 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" style="margin-right: 4px">
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" style="margin-right: 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" alt="Sass" style="margin-right: 4px"></div>
+ <h4>My main stack is <span style="color: blue;">React.js, Tailwind CSS and GSAP</span>. <br> My favorite tools are <span style="color: blue;">Figma and Visual Studio Code</span> on my laptop.</h4>
 
-**<h5 align="left">Socials</h5>**
+<p>I enjoy exploring new ideas, experimenting with animations, and continuously improving my skills.</p>
+<p>When I'm not coding, you'll probably find me listening to music, watching movies, playing games, or scrolling for inspiration.</p>
 
-<p align="left"></p>
-<a href="https://www.instagram.com/areeplh" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="28" alt="Instagram" style="margin-right: 4px">
-<a href="https://github.com/Areeep" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="28" alt="Github" style="margin-right: 4px>">
+<br>
 
+<a href="https://www.instagram.com/areeplh/">@areeplh</a>
+<br>
+<a href="www.linkedin.com/in/syariffullah">in/syariffullah</a>
 
 <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" />
