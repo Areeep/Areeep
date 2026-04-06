@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 <!--- ![Syariffullah](images/header-img.png) -->
-
 <div id="toc">
   <ul style="list-style: none">
     <summary>
@@ -42,4 +38,4 @@ Here are some ideas to get you started:
 <br>
 <a href="www.linkedin.com/in/syariffullah">in/syariffullah</a>
 
-<img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" /> -->
