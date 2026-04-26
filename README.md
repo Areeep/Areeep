@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  <h4>My main stack is <span style="color: blue;">React.js, Tailwind CSS and GSAP</span>. <br> My favorite tools are <span style="color: blue;">Figma and Visual Studio Code</span> on my laptop.</h4>
 
 <p>I enjoy exploring new ideas, experimenting with animations, and continuously improving my skills.</p>
-<p>When I'm not coding, you'll probably find me listening to music, watching movies, playing games, or scrolling for learn something new and inspiration.</p>
+<p>When I'm not coding, you'll probably find me listening to music, watching movies, playing games, or scrolling to learn something new and for inspiration.</p>
 
 <br>
 
