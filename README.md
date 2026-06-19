@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1>Hey there!👋🏻</h1>
+      <h1>Hey there! <img src="https://cdn3.emoji.gg/emojis/8631-wavefasthello.gif" width="30px" style="vertical-align: middle;" alt="Duck Hey" /> </h1>
       <p>I'm <a href="www.linkedin.com/in/syariffullah">Syariffullah</a>, a Frontend Developer based in Indonesia.</p>
     </summary>
   </ul>
@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <p>I design and build whatever i can imagine.</p>
 <p>✨ Currently focusing on crafting clean UI, smooth animations, and delightful user experiences.</p>
 
- <h4>My main stack is <span style="color: blue;">React.js, Tailwind CSS and GSAP</span>. <br> My favorite tools are <span style="color: blue;">Figma and Visual Studio Code</span> on my laptop.</h4>
+ <h4>My main stack is <span style="color: blue;">TypeScript, Tailwind CSS and GSAP</span>. <br> My favorite tools are <span style="color: blue;">Figma and Visual Studio Code</span> on my laptop.</h4>
 
 <p>I enjoy exploring new ideas, experimenting with animations, and continuously improving my skills.</p>
 <p>When I'm not coding, you'll probably find me listening to music, watching movies, playing games, or scrolling to learn something new and for inspiration.</p>
 
 <br>
 
-<a href="https://www.instagram.com/areeplh/">@areeplh</a>
+<a href="https://www.instagram.com/areeplh/" target="_blank" rel="noreferrer">@areeplh</a>
 <br>
-<a href="https://www.linkedin.com/in/syariffullah">in/syariffullah</a>
+<a href="https://www.linkedin.com/in/syariffullah" target="_blank" rel="noreferrer">in/syariffullah</a>
 
-<!-- <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" />  -->
