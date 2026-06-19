@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/areeplh/">@areeplh</a>
 <br>
-<a href="www.linkedin.com/in/syariffullah">in/syariffullah</a>
+<a href="https://www.linkedin.com/in/syariffullah">in/syariffullah</a>
 
 <!-- <img src="https://raw.githubusercontent.com/areeep/areeep/output/snake.svg" alt="Snake animation" /> -->
